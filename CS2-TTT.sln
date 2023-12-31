@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2-TTT", "CS2-TTT\CS2-TTT.csproj", "{FE83D2AA-86B8-4946-A907-A2091B0928CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT", "TTT\TTT.csproj", "{FE83D2AA-86B8-4946-A907-A2091B0928CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
